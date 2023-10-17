@@ -1,4 +1,4 @@
-// npm-workspaces-example/package-b/index.js
+// npm-workspaces-example/packages/b/index.js
 
 const axios = require("axios");
 

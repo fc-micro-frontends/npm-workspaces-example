@@ -1,4 +1,4 @@
-// npm-workspaces-example/package-a/index.js
+// npm-workspaces-example/packages/a/index.js
 
 const b = require("b");
 
